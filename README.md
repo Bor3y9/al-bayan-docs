@@ -133,7 +133,7 @@ al-bayan_backend/
 - `GET /api/dashboard` - Get platform statistics.
 
 ## Special Thanks
-A special thanks to **Youssef Megahed** and **Ziad Ahmed** for their valuable contributions to this project.
+A special thanks to **Youssef Salah** and **Ziad Ahmed** for their valuable contributions to this project.
 
 ---
 
