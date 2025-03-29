@@ -141,7 +141,7 @@ A special thanks to **Youssef Megahed** and **Ziad Ahmed** for their valuable co
 This project is licensed under the ISC License.
 
 ## Contact
-For any inquiries, reach out to `youssef22772002salah@gmail.com`.
+For any inquiries, reach out to `youssefmegahed99n@gmail.com`.
 
 ---
 
